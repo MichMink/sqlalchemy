@@ -2,7 +2,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
-[website](michelleaminkowitz@gmail.com)
+[https://github.com/MichMink/sqlalchemy](michelleaminkowitz@gmail.com)
 
 ## Description
 Climate Analysis
