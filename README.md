@@ -25,5 +25,5 @@ Answers to queries on climate data in Hawaii
 
 
 ## Contact
-If there are any questions of concerns, I can be reached at:
+If there are any questions or concerns, I can be reached at:
 ##### [github: MichMink](https://github.com/MichMink)
