@@ -5,10 +5,10 @@
 [https://github.com/MichMink/sqlalchemy](michelleaminkowitz@gmail.com)
 
 ## Description
-Climate Analysis
+Climate Analysis with API
 
 ## Installation
-Postgres
+SqlAlchemy and Flask
 
 ## Usage
 query script
@@ -20,7 +20,7 @@ Michelle Minkowitz
 MIT
 
 ## Features
-answers to queries on climate data
+Answers to queries on climate data in Hawaii
 
 
 
